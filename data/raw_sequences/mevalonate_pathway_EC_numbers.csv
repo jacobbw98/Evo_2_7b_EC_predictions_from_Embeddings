@@ -1,0 +1,11 @@
+﻿Step,Enzyme,Common Gene Name(s),Reaction,EC Number
+1,Acetyl-CoA acetyltransferase,"atoB, ERG10",2 Acetyl-CoA → Acetoacetyl-CoA,2.3.1.9
+2,Hydroxymethylglutaryl-CoA (HMG-CoA) synthase,"HMGS, ERG13",Acetoacetyl-CoA + Acetyl-CoA → HMG-CoA,2.3.3.10
+3,Hydroxymethylglutaryl-CoA (HMG-CoA) reductase (NADPH),"HMGR, HMG1/HMG2",HMG-CoA → Mevalonate,1.1.1.34
+3,Hydroxymethylglutaryl-CoA (HMG-CoA) reductase (NADH),"HMGR, HMG1/HMG2",HMG-CoA → Mevalonate,1.1.1.88
+4,Mevalonate kinase,"MK, ERG12",Mevalonate → Mevalonate-5-phosphate,2.7.1.36
+5,Phosphomevalonate kinase,"PMK, ERG8",Mevalonate-5-phosphate → Mevalonate-5-diphosphate,2.7.4.2
+6,Mevalonate diphosphate decarboxylase,"MDD, MVD1/ERG19",Mevalonate-5-diphosphate → Isopentenyl diphosphate (IPP),4.1.1.33
+7,Isopentenyl-diphosphate isomerase,IDI1,IPP ⇌ Dimethylallyl diphosphate (DMAPP),5.3.3.2
+8,Geranyl diphosphate synthase,GPPS,IPP + DMAPP → Geranyl diphosphate (GPP),2.5.1.1
+9,Farnesyl diphosphate synthase,"FPPS, ERG20",GPP + IPP → Farnesyl diphosphate (FPP),2.5.1.10
