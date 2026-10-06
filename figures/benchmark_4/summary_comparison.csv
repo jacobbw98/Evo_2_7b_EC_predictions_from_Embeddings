@@ -1,0 +1,9 @@
+Model,Best Layer,Train EC Accuracy,Valid EC Accuracy
+XGBoost Last Token,17,0.9754,0.3897
+XGBoost Mean Token,19,0.9754,0.6208
+MLP Last Token,20,0.9744,0.6355
+MLP Mean Token,17,0.9684,0.7332
+RF Block,24,0.9754,0.1191
+RF MLP,24,0.9754,0.1007
+RF Post Norm,24,0.9754,0.1162
+RF Combined (L9+24+26),9+24+26,0.9754,0.1331
